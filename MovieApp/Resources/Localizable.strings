@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  MovieApp
+
+  Created by Sebastián Giraldo Gómez on 6/05/21.
+  
+*/
+
+"errorFetchingMovies" = "There was an error fetching the movies.";
+"unableToProccess" = "Unable to process request";
+"userNotFound" = "We couldn't find the username in our database";
+"wrongPassword" = "The password doesn't match with out records";
+"requestError" = "There was an error trying to perform the request ";
+"instantiationError" = "Couldn't instantiate initial view controller for storyboard";
+"errorFound" = "There was an error.";
+"oops" = "Oops!";
+"validation" = "Validation";
+"typeValidUsername" = "Please type a valid username";
+"typeValidPassword" = "Please type a valid password";
+"ok" = "Ok";
+"rating" = "Rating: ";
+"votes" = "Votes: ";
+"username" = "Username";
+"password" = "Password";
+"login" = "Login";
+"movies" = "Movies";
+"favorites" = "Favorites";
+"detail" = "Detail";

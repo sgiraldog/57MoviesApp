@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Keychain",
+        "repositoryURL": "https://github.com/GroupeMINASTE/Keychain.swift.git",
+        "state": {
+          "branch": null,
+          "revision": "a1268e5e144e687a66b0964954533edc07f6c0ff",
+          "version": "1.0.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
